@@ -1,0 +1,7 @@
+[package]
+name = "classic-nju-lamda-slides"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Shengjun Fang"]
+license = "MIT"
+description = "Classic NJU Lamda slides template."

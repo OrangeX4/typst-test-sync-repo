@@ -1,0 +1,7 @@
+[package]
+name = "mytemplate"
+version = "0.1.0"
+entrypoint = "mytemplate.typ"
+authors = ["My template"]
+license = "Unlicense"
+description = "My template."
